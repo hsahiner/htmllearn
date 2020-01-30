@@ -1,0 +1,1 @@
+<?php echo "burada php çalışıyor mu"; ?>
